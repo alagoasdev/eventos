@@ -1,0 +1,13 @@
+{
+    "events": [
+        {
+           "name": "Alagoas Dev Day Lite",
+            "date": "2020-05-01",
+            "local": {
+                "name": "Remoto"
+            },
+            "description": "TBD",
+            "url": "https://alagoasdevday.com.br/"
+        }
+    ]
+}
